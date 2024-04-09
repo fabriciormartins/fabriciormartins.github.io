@@ -42,7 +42,7 @@ Sou Analista de sistemas, pós graduado em desenvolvimento orientado a objetos e
 ![Flutter](https://img.shields.io/badge/Flutter-%23055595?style=flat-square&labelColor=%23414141&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Inglês](https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2300A86B?style=flat-square&labelColor=%23414141logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 #### 📫 Você pode me encontrar em:
 
@@ -52,5 +52,5 @@ Sou Analista de sistemas, pós graduado em desenvolvimento orientado a objetos e
 
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
-[![Linguagens](https://github-readme-stats.vercel.app/api?username=fabriciormartins&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/abriciormartins?tab=repositories)
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=fabriciormartins&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/fabriciormartins?tab=repositories)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciormartins&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/fabriciormartins?tab=repositories)
