@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(223, 223, 223);
+  padding: 0;
+  font-family: "Hind Siliguri", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#content {
+  margin: 5rem;
+}
+
+img {
+  border-radius: 10%;
+}
+
+img:hover {
+  cursor: pointer;
+}
+
+#estatisticas-github {
+  display: block;
+
+}
+
+#contato {
+  display: block;
+}
