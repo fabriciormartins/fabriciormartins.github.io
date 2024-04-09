@@ -1,6 +1,8 @@
 #### Olá! Sou o Fabrício!
 
 Sou Analista de sistemas, pós graduado em desenvolvimento orientado a objetos em java e estudante de ciência da computação!
+Sou um desenvolvedor apaixonado por tecnologia e soluções de problemas com uso de tecnologias. Possuo mais de 6 anos de experiência no desenvolvimento de software com Java para web. Adepto da aprendizagem contínua.
+
 
 
 <div style="width: max-content;">
